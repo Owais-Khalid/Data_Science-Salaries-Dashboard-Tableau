@@ -13,11 +13,11 @@ https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
 **Data Cleaning**
 
 I used Excel for data cleaning.
-a. Checked for data types
-b. Filter out irelevant data 
-c. Remove unwanted colunms 
-d. Converted the salaries coulnm into salary_in_usd clunm.The salary in USD (FX rate divided by avg. USD rate for the respective year via fxdata.foorilla.com)
-e. The average number of people that worked for the company during the year: S less than 50 employees (small) M 50 to 250 employees (medium) L more than 250 employees (large)
+1. Checked for data types.
+2. Filter out irelevant data.
+3. Remove unwanted columns.
+4. Converted the salaries coulnm into salary_in_usd clunm.The salary in USD (FX rate divided by avg. USD rate for the respective year via fxdata.foorilla.com).
+5. The average number of people that worked for the company during the year: S less than 50 employees (small) M 50 to 250 employees (medium) L more than 250 employees (large).
 
 **Data Visulazation**
 
